@@ -1,4 +1,4 @@
-### Hello World I'm Lucas ^^ (Olá Mundo, Sou o Lucas ^^)
+### Hello I'm Lucas ^^
 
 - 💼 I’m currently working on Amazonas Civil Defense State with Junior Front-end and Back-end Developer.
 - 🌱 I’m currently learning Vue.js, Computer Vision and Cloud Computer.
